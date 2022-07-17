@@ -176,3 +176,14 @@ img{
 .tac{
     text-align: center;
 }
+.icon:hover,.brand img:hover,.othWork img:hover{
+    opacity: 0.5;
+}
+.othWork a{
+    color:black;
+    text-decoration: none
+}
+.contact a{
+    color:white;
+    text-decoration: none
+}
