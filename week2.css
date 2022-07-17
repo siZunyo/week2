@@ -83,6 +83,7 @@ img{
     justify-content: center;
     align-items: center;
     height: 958px;
+    background-size: cover;
 }
 .header-warp{
     color:white;
